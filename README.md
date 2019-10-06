@@ -1,3 +1,3 @@
 # FizzBuzz
 
-A collection of FizzBuzz in different languages
+A collection of FizzBuzz in different languages (so far only in c#)
