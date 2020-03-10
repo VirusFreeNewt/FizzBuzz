@@ -1,3 +1,3 @@
 # FizzBuzz
 
-A collection of FizzBuzz functions
+FizzBuzz in c#
